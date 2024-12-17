@@ -1,4 +1,4 @@
-# Server Availability Script
+## Server Availability Script
 
 This is a Bash script that checks a list of servers, checks their status using `ping`, and sends an email report if any servers are down. 
 
@@ -12,9 +12,10 @@ This is a Bash script that checks a list of servers, checks their status using `
 
 ## Installation
 
-1. **Clone the repository**:
+**Clone the repository**
    
-   git clone git@github.com:KonstantinosMichalatos24/server-avail.git
-   cd server-avail
-# server_avail
-# server_avail
+   git clone git@github.com:KonstantinosMichalatos24/server_avail.git
+   
+**Change Directory**
+
+   cd server_avail
